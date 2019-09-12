@@ -1,6 +1,6 @@
 CogniCity
 =========
 
-**Open Source GeoSocial Intelligence Framework**
+**SMART Infrastructure Facility Github page**
 
 *Coming soon...*
